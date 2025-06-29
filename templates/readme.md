@@ -1,0 +1,1 @@
+templates executable of project
